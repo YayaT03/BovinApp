@@ -1,0 +1,15 @@
+.colormenu{
+    background-color: rgb(155, 242, 133);
+    font-size: 20px;
+  } 
+
+  .imgfondo{
+    
+  background-image: url('../img/cows.jpg');
+  background-size:cover;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  width: auto;
+  height: 600px;
+  
+}
