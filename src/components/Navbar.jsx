@@ -33,7 +33,7 @@ const Navbar = () => {
           </li>
 
           <li className="nav-item">
-           <Link to="blog" className='nav-link active'>Blog</Link>
+           <Link to="Blog" className='nav-link active'>Blog</Link>
           </li>
           
         </ul>
