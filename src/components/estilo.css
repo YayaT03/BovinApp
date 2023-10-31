@@ -42,3 +42,18 @@ footer{
 .margen{
   margin-top: 100px;
 }
+.margen2{
+  margin-top: 150px;
+}
+
+.img{
+    
+  background-image: url('../img/cw.jpg');
+  background-size:cover;
+  background-position:center; 
+  background-repeat: no-repeat; 
+  width: 101%;
+  height:auto;
+  color:#ffffff;
+  
+}

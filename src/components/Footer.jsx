@@ -6,7 +6,7 @@ const Footer = () => {
     <div>
 
     <footer >
-   <div className="container-md mt-2">
+   <div className="container-md ">
 
    <i className="fa-brands fa-facebook fa-2xl me-3" ></i> 
    <Link to="https://www.facebook.com">Facebook </Link> <br></br> <br></br>

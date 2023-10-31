@@ -1,6 +1,6 @@
 import React from 'react'
 import Footer from '../components/Footer'
-
+import { Link } from 'react-router-dom'
 
 const Home = () => {
   return (
@@ -16,7 +16,7 @@ const Home = () => {
         </p>
 
         <div className='mt-5'>
-          <button type="button " className="btn btn-light">Iniciar</button>
+          <button type="button " className="btn btn-light"><Link to="Login">Iniciar</Link></button>
         
         </div>
 
